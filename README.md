@@ -27,7 +27,8 @@
 6. Custom
     1. [Custom bar histogram](https://echarts.apache.org/examples/en/editor.html?c=bar-histogram)
     2. [Custom bar trend](https://echarts.apache.org/examples/en/editor.html?c=custom-bar-trend)
-    3. [Custom profit](https://echarts.apache.org/examples/en/editor.html?c=custom-profit)
+    3. [Custom polar heatmap](https://echarts.apache.org/examples/en/editor.html?c=custom-polar-heatmap)
+    4. [Custom profit](https://echarts.apache.org/examples/en/editor.html?c=custom-profit)
 7. Dataset
     1. [Data transform multiple pie](https://echarts.apache.org/examples/en/editor.html?c=data-transform-multiple-pie)
     2. [Dataset encode](https://echarts.apache.org/examples/en/editor.html?c=dataset-encode0)
