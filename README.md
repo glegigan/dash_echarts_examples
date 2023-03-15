@@ -18,10 +18,10 @@
     3. [BoxPlot multi vertical](https://echarts.apache.org/examples/en/editor.html?c=boxplot-multi)
     4. 
 4. Calendar
-    1. [Calendar graph](https://echarts.apache.org/examples/en/editor.html?c=calendar-graph
-)
-    2. [Calendar heatmap](https://echarts.apache.org/examples/en/editor.html?c=calendar-heatmap)
-    3. [Calendar vertical](https://echarts.apache.org/examples/en/editor.html?c=calendar-vertical)
+    1. [Calendar charts](https://echarts.apache.org/examples/en/editor.html?c=calendar-charts)
+    2. [Calendar graph](https://echarts.apache.org/examples/en/editor.html?c=calendar-graph)
+    3. [Calendar heatmap](https://echarts.apache.org/examples/en/editor.html?c=calendar-heatmap)
+    4. [Calendar vertical](https://echarts.apache.org/examples/en/editor.html?c=calendar-vertical)
 5. Candlestick
     1. [Candlestick](https://echarts.apache.org/examples/en/editor.html?c=candlestick-sh)
 6. Custom
