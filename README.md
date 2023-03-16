@@ -61,11 +61,12 @@
     1. Liquidfill
 15. Pictorial bar
     1. [Pictorial bar transition](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-bar-transition)
-    2. [Pictorial bar dotted](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-dotted)
-    3. [Pictorial bar hill](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-hill)
-    4. [Pictorial bar spirit](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-spirit)
-    5. [Pictorial bar vehicle](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-vehicle)
-    6. [Pictorial bar velocity](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-velocity)
+    2. [Pictorial bar body fill](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-body-fill)
+    3. [Pictorial bar dotted](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-dotted)
+    4. [Pictorial bar hill](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-hill)
+    5. [Pictorial bar spirit](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-spirit)
+    6. [Pictorial bar vehicle](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-vehicle)
+    7. [Pictorial bar velocity](https://echarts.apache.org/examples/en/editor.html?c=pictorialBar-velocity)
 16. Pie
     1. [Pie doughnut with radial gradient](https://echarts.apache.org/examples/en/editor.html?c=pie-doughnut)
     2. [Pie nest](https://echarts.apache.org/examples/en/editor.html?c=pie-nest)
