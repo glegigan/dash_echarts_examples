@@ -32,6 +32,7 @@
 7. Dataset
     1. [Data transform multiple pie](https://echarts.apache.org/examples/en/editor.html?c=data-transform-multiple-pie)
     2. [Dataset encode](https://echarts.apache.org/examples/en/editor.html?c=dataset-encode0)
+    3. [Dataset link](https://echarts.apache.org/examples/en/editor.html?c=dataset-link)
 8. Gauge
     1. [Gause simple with gradient](https://echarts.apache.org/examples/en/editor.html?c=gauge-simple)
     2. [Gauge simple](https://echarts.apache.org/examples/en/editor.html?c=gauge-simple)
